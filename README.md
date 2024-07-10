@@ -7,8 +7,6 @@
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/crpc9---understanding-sales-promotion-analysis-by-saddam-ansari)
 
 
-### Business Reqest Solutions with query and result [Link](https://docs.google.com/document/d/1k7-CKe6dfkA2_3Gzwb8p2flDm93unUiCH0xlnRl5JHA/edit?usp=sharing)
-
 #
 
 ## Tables of Content
