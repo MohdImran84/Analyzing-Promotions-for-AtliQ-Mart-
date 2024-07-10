@@ -4,7 +4,7 @@
 
 ## Important Links 👇
 
-### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/crpc9---understanding-sales-promotion-analysis-by-saddam-ansari)
+### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/7p7UKW)
 
 
 #
